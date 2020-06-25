@@ -1,2 +1,0 @@
-# movieapp
-A react applicaiton
